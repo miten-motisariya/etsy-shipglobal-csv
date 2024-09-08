@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/etsy-shipglobal-csv/static/css/main.37fe159e.css",
-    "main.js": "/etsy-shipglobal-csv/static/js/main.89c4090e.js",
+    "main.js": "/etsy-shipglobal-csv/static/js/main.a4c18dd5.js",
     "static/js/488.6ae492f4.chunk.js": "/etsy-shipglobal-csv/static/js/488.6ae492f4.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/etsy-shipglobal-csv/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/etsy-shipglobal-csv/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/etsy-shipglobal-csv/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/etsy-shipglobal-csv/index.html",
     "main.37fe159e.css.map": "/etsy-shipglobal-csv/static/css/main.37fe159e.css.map",
-    "main.89c4090e.js.map": "/etsy-shipglobal-csv/static/js/main.89c4090e.js.map",
+    "main.a4c18dd5.js.map": "/etsy-shipglobal-csv/static/js/main.a4c18dd5.js.map",
     "488.6ae492f4.chunk.js.map": "/etsy-shipglobal-csv/static/js/488.6ae492f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37fe159e.css",
-    "static/js/main.89c4090e.js"
+    "static/js/main.a4c18dd5.js"
   ]
 }
